@@ -22,7 +22,9 @@
 
 
 ## Q4) 실제로 pre-trained 모델을 fine-tuning했을 때 loss curve은 어떻게 그려지나요? 그리고 pre-train 하지 않은 Transformer를 학습했을 때와 어떤 차이가 있나요? 
-> pre-trained 모델을 fine-tuning 한 경우 Loss가 낮고 Accuracy가 높으며, 학습 속도와 일반화 성능이 우수. 하지만 epoch이 더많아지면 과적합 발생 우려가 있습니다.
+> pre-trained 모델을 fine-tuning 한 경우 Loss가 낮고 Accuracy가 높으며, 학습 속도와 일반화 성능이 우수.
+> 학습이 진행될수록 validation이 안정적으로 증가
+> 하지만 epoch이 더많아지면 과적합 발생 우려가 있습니다.
 * fine-tuning 결과 그래프
 ![fine-tuning](https://github.com/user-attachments/assets/6a20c033-8d1a-4109-97bd-c645e78eef2b)
 
