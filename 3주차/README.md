@@ -28,11 +28,17 @@
 * fine-tuning 결과 그래프
 ![fine-tuning](https://github.com/user-attachments/assets/6a20c033-8d1a-4109-97bd-c645e78eef2b)
 
+* fine-tuning epoch 결과
+![fine-epoch](https://github.com/user-attachments/assets/c6a00c2f-77ee-4c0f-8544-56dda847b61c)
+
 > pre-train 하지 않은 transformer를 학습했을때는 train loss가 매우 높은 값에서 시작하여 급격히 감소하는게 보이지만 validation loss는 비교적 느리게 감소하거나 일정 수준 정체가 일어납니다.
 > 또한 학습 데이터의 패턴은 일부 학습되었지만 fine-tuning 없이 해당 데이터셋에 특화된 일반화 성능이 부족한게 보입니다.
 
 - * pre-training만 학습 결과 그래프
 ![pre-training](https://github.com/user-attachments/assets/96c9e89c-8eca-464a-8f2b-af7a2edd3400)
--  
+
+* pre-train epoch 결과
+ ![pre-epoch](https://github.com/user-attachments/assets/c0683324-c4dd-46e7-9a11-839689ca8785)
+
 -  
 - 이미지 첨부시 : ![이미지 설명](경로) / 예시: ![poster](./image.png)
