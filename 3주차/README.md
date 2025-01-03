@@ -26,6 +26,8 @@
 > 학습이 진행될수록 validation이 안정적으로 증가
 > 하지만 epoch이 더많아지면 과적합 발생 우려가 있습니다.
 * fine-tuning 결과 그래프
+
+  
 ![fine-tuning](https://github.com/user-attachments/assets/6a20c033-8d1a-4109-97bd-c645e78eef2b)
 
 * fine-tuning epoch 결과
@@ -38,7 +40,8 @@
 ![pre-training](https://github.com/user-attachments/assets/96c9e89c-8eca-464a-8f2b-af7a2edd3400)
 
 * pre-train epoch 결과
+
+  
  ![pre-epoch](https://github.com/user-attachments/assets/c0683324-c4dd-46e7-9a11-839689ca8785)
 
--  
-- 이미지 첨부시 : ![이미지 설명](경로) / 예시: ![poster](./image.png)
+
