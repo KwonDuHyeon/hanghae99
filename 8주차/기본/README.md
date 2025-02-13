@@ -2,6 +2,8 @@
 * LoRa Rank 8
    - train loss 그래프
    - https://api.wandb.ai/links/duhyeon/9h0mi2fv
+     ![image](https://github.com/user-attachments/assets/7cd60a5b-f730-4564-b386-38c2359b413c)
+
  
    - 속도, 메모리
 ***** train metrics *****
@@ -20,6 +22,8 @@ Max Alloc: 4.1 GB
 * LoRa Rank 128
   - train loss 그래프
  https://wandb.ai/duhyeon/Hanghae99-8_basic/reports/train-loss-25-02-13-15-52-52---VmlldzoxMTMzMzI3Mg?accessToken=zmp6bcn0bwfyd4mhjt5fg7vp50o27ppnc1ghq1jgj8snv2asu4435h9g4gk3kvyo
+![image](https://github.com/user-attachments/assets/d9e90234-e849-4686-bb5d-0f13d6db777f)
+
    - 속도, 메모리
 ***** train metrics *****
   epoch                    =        3.0
@@ -37,6 +41,8 @@ Max Alloc: 4.8 GB
 
   - train loss 그래프
    https://wandb.ai/duhyeon/Hanghae99-8_basic/reports/train-loss-25-02-13-16-14-55---VmlldzoxMTMzMzYxMw?accessToken=gp6iyy1q6nckxdlyicjwmx1ug65d21dptsuq41kmijce7w8rjgdbr07ehuyefpvn
+![image](https://github.com/user-attachments/assets/12bdf157-accd-4172-868b-10cae8b0b016)
+
  - 속도, 메모리
    ***** train metrics *****
     epoch                    =        3.0
